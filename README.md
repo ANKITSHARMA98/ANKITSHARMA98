@@ -9,7 +9,8 @@
 <br>
 <br>
 <br>
-![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=ANKITSHARMA98&show_icons=true&title_color=fff&icon_color=018eff&text_color=ECECEC&bg_color=000000)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ANKITSHARMA98&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ankits's Github Stats">
+
 <br>
 <br>
 ⭐️ From [ANKITSHARMA98](https://github.com/ANKITSHARMA98) 
