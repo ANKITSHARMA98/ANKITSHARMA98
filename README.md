@@ -9,7 +9,7 @@
 <br>
 <br>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=ANKITSHARMA98&show_icons=true" />
+![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=ANKITSHARMA98&show_icons=true&title_color=fff&icon_color=018eff&text_color=ECECEC&bg_color=000000)
 <br>
 <br>
 ⭐️ From [ANKITSHARMA98](https://github.com/ANKITSHARMA98) 
