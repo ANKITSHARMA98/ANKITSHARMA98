@@ -9,7 +9,7 @@
 <br>
 <br>
 <a href="https://github.com/ANKITSHARMA98">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANKITSHARMA98&theme=radical&hide=glsl,python" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANKITSHARMA98&theme=dark&hide=glsl,python" />
 </a>
 <br>
 ⭐️ From [ANKITSHARMA98](https://github.com/ANKITSHARMA98)
