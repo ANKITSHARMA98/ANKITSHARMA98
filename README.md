@@ -14,4 +14,5 @@
 <br>
 ⭐️ From [ANKITSHARMA98](https://github.com/ANKITSHARMA98)
 <br>
+![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=ANKITSHARMA98&count_private=true&theme=tokyonight&hide=contribs,prs)
 </div>
