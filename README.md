@@ -1,6 +1,7 @@
 ## Hi I'm Ankit <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 <div align="center">
-<img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino.gif?raw=true" />
+<img src="https://github.com/SP-XD/SP-XD/blob/main/this_page_is.gif?raw=true"  width="400"/>
 <br>
 
 # Hello, world! 👋
