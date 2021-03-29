@@ -1,9 +1,4 @@
 ## Hi I'm Ankit <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-<div align="center">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino.gif?raw=true" />
-<img src="https://github.com/SP-XD/SP-XD/blob/main/this_page_is.gif?raw=true"  width="400"/>
-<br>
-
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
@@ -30,6 +25,12 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
+<div align="center">
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino.gif?raw=true" />
+<img src="https://github.com/SP-XD/SP-XD/blob/main/this_page_is.gif?raw=true"  width="400"/>
+<br>
+
+
 
 #### You can find me on:
 [Linkedin](https://www.linkedin.com/in/ankit-sharma-7843aa187) - [Gmail](mailto:ankitsharma8794@gmail.com)
