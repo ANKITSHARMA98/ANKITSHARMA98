@@ -37,7 +37,7 @@
 <br>
 <br>
 <a href="https://github.com/ANKITSHARMA98">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ANKITSHARMA98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ANKITSHARMA98&theme=highcontrast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </a>
 <br>
 ⭐️ From [ANKITSHARMA98](https://github.com/ANKITSHARMA98)
