@@ -2,7 +2,7 @@
 
 <div align="center">
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino.gif?raw=true" />
-<img src="https://github.com/SP-XD/SP-XD/blob/main/this_page_is.gif?raw=true"  width="400"/>
+
 <br>
 
 
