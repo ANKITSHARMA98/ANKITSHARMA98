@@ -13,8 +13,8 @@
 <br>
 <br>
 <a href="https://github.com/ANKITSHARMA98">
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ANKITSHARMA98&theme=radical)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ANKITSHARMA98&theme=highcontrast)
 </a>
 <br>
-![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ANKITSHARMA98&theme=radical&show_icons=true)
+![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ANKITSHARMA98&theme=highcontrast&show_icons=true)
 </div>
