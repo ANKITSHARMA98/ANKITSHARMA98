@@ -20,4 +20,4 @@
 <br>
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ANKITSHARMA98&theme=highcontrast)
 </div>
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?ANKITSHARMA98" frameborder="0"></iframe>
+
