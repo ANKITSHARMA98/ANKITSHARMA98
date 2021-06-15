@@ -16,7 +16,7 @@
 ![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ANKITSHARMA98&theme=highcontrast&show_icons=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ANKITSHARMA98&theme=highcontrast)  
 </a>
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ANKITSHARMA98&theme=highcontrast)
+
 <br>
 )
 </div>
