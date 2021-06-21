@@ -12,10 +12,7 @@
 [Linkedin](https://www.linkedin.com/in/ankit-sharma-7843aa187) - [Gmail](mailto:ankitsharma8794@gmail.com)
 <br>
 <br>
-<a href="https://github.com/ANKITSHARMA98">
-![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ANKITSHARMA98&theme=highcontrast&show_icons=true)
- 
-</a>
+<img align = "center"  src = "https://github-readme-stats.vercel.app/api?username=ANKITSHARMA98&count_private=true&show_icons=true&theme=highcontrast">
 <a href="https://github.com/ANKITSHARMA98">
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANKITSHARMA98&layout=compact&theme=highcontrast" />
