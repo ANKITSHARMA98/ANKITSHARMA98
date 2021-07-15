@@ -30,7 +30,7 @@
 <img align = "center"  src = "https://github-readme-stats.vercel.app/api?username=ANKITSHARMA98&count_private=true&show_icons=true&theme=highcontrast"><br>
 <a href="https://github.com/ANKITSHARMA98">
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANKITSHARMA98&layout=compact&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANKITSHARMA98&count_private=true&layout=compact&theme=highcontrast" />
   
 
 </a>
