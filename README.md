@@ -11,8 +11,7 @@
 </p>
 
 <div align="center">
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino.gif?raw=true" />
+<img align = "center" src= "https://github.com/ANKITSHARMA98/ANKITSHARMA98/blob/main/images/CheerySeparateGoldeneye-size_restricted.gif"><br>
 
 
 
@@ -33,7 +32,6 @@
   
 <img align = "center" src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ANKITSHARMA98&theme=dracula"><br>
   
-
 </a>
  
 
