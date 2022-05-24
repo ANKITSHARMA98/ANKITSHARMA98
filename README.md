@@ -24,7 +24,7 @@
 
 
 #### You can find me on:<br>
-  [![in](https://user-images.githubusercontent.com/54376246/123296510-55d57400-d534-11eb-85b1-0835b35f9c35.gif)](www.linkedin.com/in/ankitsharma04)
+  [![in](https://user-images.githubusercontent.com/54376246/123296510-55d57400-d534-11eb-85b1-0835b35f9c35.gif)]([www.linkedin.com/in/ankitsharma04](https://www.linkedin.com/in/ankitsharma04/))
 
 
 <img align = "center"  src = "https://github-readme-stats.vercel.app/api?username=ANKITSHARMA98&count_private=true&show_icons=true&theme=dracula"><br>
